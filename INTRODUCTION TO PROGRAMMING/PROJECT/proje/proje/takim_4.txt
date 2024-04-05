@@ -1,0 +1,18 @@
+    Takým Numarasý: 4
+         Takým Adý: 4
+      Takým Adresi: 4
+    Takým Telefonu: 4
+     Oyuncu Sayýsý: 4
+     Yönetici Ýsim: 4
+
+OYUNCULAR
+----------------------
+Oyuncunun TC kimlik numarasý: 7
+Oyuncunun adý: 7
+Oyuncunun soyadý: 7
+Oyuncunun lisans numarasý: 7
+Oyuncunun oynayacaðý konum: 7
+Oyuncunun alacaðý ücret: 7
+Oyuncunun doðum tarihi: 7
+
+****************************************************************

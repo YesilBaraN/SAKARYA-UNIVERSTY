@@ -1,0 +1,27 @@
+Oyuncunun TC kimlik numarasý: 7
+Oyuncunun adý: 7
+Oyuncunun soyadý: 7
+Oyuncunun lisans numarasý: 7
+Oyuncunun oynayacaðý konum: 7
+Oyuncunun alacaðý ücret: 7
+Oyuncunun doðum tarihi: 7
+
+****************************************************************
+Oyuncunun TC kimlik numarasý: 6
+Oyuncunun adý: 6
+Oyuncunun soyadý: 6
+Oyuncunun lisans numarasý: 6
+Oyuncunun oynayacaðý konum: 6
+Oyuncunun alacaðý ücret: 6
+Oyuncunun doðum tarihi: 6
+
+****************************************************************
+Oyuncunun TC kimlik numarasý: 7
+Oyuncunun adý: 7
+Oyuncunun soyadý: 7
+Oyuncunun lisans numarasý: 7
+Oyuncunun oynayacaðý konum: 7
+Oyuncunun alacaðý ücret: 7
+Oyuncunun doðum tarihi: 7
+
+****************************************************************

@@ -1,0 +1,9 @@
+C:\Users\yesil\OneDrive\Masaüstü\ÖDEV DENEMELERİ\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\yesil\OneDrive\Masaüstü\ÖDEV DENEMELERİ\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\yesil\OneDrive\Masaüstü\ÖDEV DENEMELERİ\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\yesil\OneDrive\Masaüstü\ÖDEV DENEMELERİ\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\yesil\OneDrive\Masaüstü\ÖDEV DENEMELERİ\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\yesil\OneDrive\Masaüstü\ÖDEV DENEMELERİ\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\yesil\OneDrive\Masaüstü\ÖDEV DENEMELERİ\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\yesil\OneDrive\Masaüstü\ÖDEV DENEMELERİ\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\yesil\OneDrive\Masaüstü\ÖDEV DENEMELERİ\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

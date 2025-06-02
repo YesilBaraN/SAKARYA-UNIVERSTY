@@ -1,0 +1,1 @@
+Eğer ağaçlar.txt açılmaz ise ekstra yol belirtmeniz gerekirse main.cpp nin 20. satırındaki ağaçlar.txt yazan veriye yolu tam yolu yazabilrisiniz.

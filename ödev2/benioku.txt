@@ -1,2 +1,0 @@
-Test.exe çalıştırıldığında dna.txt ve işlemler.txt için ayrıca yol belirtilmesi gerekmektedir.
-Terminalden çalıştırıldığında herhangi bir sorun yoktur.

@@ -1,1 +1,68 @@
+ÖDEV 1
+# 🧬 DNA Karşılaştırma Sistemi
+
+## 📌 Proje Açıklaması
+Bu projede, çift yönlü bağlı liste kullanılarak iki DNA dizisi karşılaştırılmakta ve eşleşen nükleotitlerin sayısı hesaplanmaktadır. Sistemde `dna.txt` dosyasından veri okunur, her karakter bir düğüm olarak bağlı listeye eklenir. Aynı şekilde `islemler.txt` dosyasındaki talimatlara göre karşılaştırma işlemleri yapılır.
+
+## 🧰 Kullanılan Yapılar ve Kurallar
+- `class` tabanlı yapı (C++ dilinde)
+- `string`, `vector`, `struct` gibi yapılar **kullanılmadı**
+- Her karakter için ayrı düğüm oluşturuldu
+- Dosya işlemleri için `getline` kullanıldı
+- Çift yönlü bağlı liste uygulandı
+- Kodlar `src/`, başlık dosyaları `include/` klasöründe
+- Derleme için `Makefile` kullanıldı
+
+## 📂 Klasör Yapısı
+- `src/`: C++ kaynak dosyaları
+- `include/`: Sınıf başlık dosyaları
+- `lib/`: Derlenmiş kütüphane (.a)
+- `bin/`: Çalıştırılabilir dosyalar
+- `doc/`: Dökümantasyon ve rapor
+- `benioku.txt`: Proje hakkında kısa bilgi
+- `dna.txt`: Karşılaştırılacak DNA verileri
+- `islemler.txt`: Karşılaştırma talimatları
+
+## ⚙️ Derleme ve Çalıştırma
+```bash
+make
+./bin/Odev1
+
+
+
+
+
+ÖDEV 2
+
+
+---
+
+### 📄 Ödev 2: Ağaç Listesi Yönetimi
+
+```markdown
+# 🌲 Ağaç Listesi ve Tür Yönetim Sistemi
+
+## 📌 Proje Açıklaması
+Bu projede bağlı liste veri yapısı kullanılarak ağaç türleri ve özellikleri bir sistemde saklanmaktadır. Kullanıcı, `Agaclar.txt` dosyasından yüklenen verilerle ağaçları listeleyebilir, karşılaştırabilir veya gruplandırabilir. Bu sistem, ağaç türlerine göre dinamik bellek kullanımı ve liste işlemlerini uygular.
+
+## 🧰 Kullanılan Yapılar ve Kurallar
+- `class` yapısı kullanıldı, `struct`, `string`, `vector` kullanılmadı
+- Çift yönlü bağlı liste yapısı
+- Dosyadan veri okuma işlemleri için `getline` kullanıldı
+- Dosyalar `src/` ve `include/` klasörlerine ayrıldı
+- `benioku.txt` projenin genel bilgilerini içerir
+- Derleme işlemleri `makefile` aracılığıyla yapılır
+
+## 📂 Klasör Yapısı
+- `src/`: Kaynak kodlar
+- `include/`: Başlık dosyaları
+- `lib/`: Derlenmiş kütüphane
+- `bin/`: Uygulama çıktısı
+- `benioku.txt`: Kısa açıklama
+- `Agaclar.txt`: Giriş verileri
+
+## ⚙️ Derleme ve Çalıştırma
+```bash
+make
+./bin/Odev2
 
